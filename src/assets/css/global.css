@@ -1,0 +1,13 @@
+/* 全局样式表 */
+html, body, #app, ul, ol, p, h1, h2, h3, h4, h5, h6, dl, dd, select, input, textarea, form {
+    margin: 0;
+    padding: 0;
+}
+
+html, body, #app {
+    height: 100%;
+}
+
+a {
+    text-decoration: none;
+}
